@@ -15,7 +15,9 @@
 ## Информация (какая?)
 
 Почта: **GOSIOTO@yandex.ru**
+
 GitHub: [**Мой профиль ГитХаб**](https://github.com/G0SL0T0)
+
 Telegramm: **@G0SL0T0**
 
 
